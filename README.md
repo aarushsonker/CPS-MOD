@@ -1,5 +1,6 @@
-How to Use the Whiskey Rise Click Modifier
-Step-by-Step Guide
+**How to Use the Whiskey Rise Click Modifier**
+
+**Step-by-Step Guide**
 Open the Program:
 
 Start by locating the executable file of the Click Modifier on your computer and open it.
@@ -17,10 +18,10 @@ Use the hotkey you set to toggle the Click Modifier on or off.
 When the Click Modifier is active, it will automatically simulate the desired number of clicks per second whenever you use your mouse button (both left and right click if it is a bothclick modifier).
 Use in Games:
 
-This tool is handy for games that require frequent clicking, such as Minecraft 1.8.9.
+**This tool is handy for games that require frequent clicking, such as Minecraft 1.8.9.**
 Simply turn on the Click Modifier using your hotkey when you start playing and turn it off when you no longer need it.
 Additional Notes
 Compatibility: The Click Modifier is designed to work smoothly with Minecraft 1.8.9 but can be used with other clicking games as well.
-Customization: You can always change the CPS and hotkey settings as needed by reopening the program and following steps 2 and 3.
+Customization: You can always change the CPS and hotkey settings as needed by reopening the program and following steps 2 and 3.                                                                                
 Safety: Make sure to use the Click Modifier responsibly. Overusing automated clicking tools can sometimes violate the terms of service of certain games.
 By following these steps, you can effectively use the Whiskey Rise Click Modifier to enhance your gameplay experience

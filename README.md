@@ -17,7 +17,7 @@ Use the hotkey you set to toggle the Click Modifier on or off.
 When the Click Modifier is active, it will automatically simulate the desired number of clicks per second whenever you use your mouse button (both left and right click if it is a bothclick modifier).
 Use in Games:
 
-This tool is particularly useful for games that require frequent clicking, such as Minecraft 1.8.9.
+This tool is handy for games that require frequent clicking, such as Minecraft 1.8.9.
 Simply turn on the Click Modifier using your hotkey when you start playing and turn it off when you no longer need it.
 Additional Notes
 Compatibility: The Click Modifier is designed to work smoothly with Minecraft 1.8.9 but can be used with other clicking games as well.

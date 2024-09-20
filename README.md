@@ -1,4 +1,4 @@
-**How to Use the Whiskey Rise Click Modifier**
+**How to Use the Kotetsu Labs Click Modifier**
 
 **Step-by-Step Guide**
 Open the Program:
@@ -24,4 +24,4 @@ Additional Notes
 Compatibility: The Click Modifier is designed to work smoothly with Minecraft 1.8.9 but can be used with other clicking games as well.
 Customization: You can always change the CPS and hotkey settings as needed by reopening the program and following steps 2 and 3.                                                                                
 Safety: Make sure to use the Click Modifier responsibly. Overusing automated clicking tools can sometimes violate the terms of service of certain games.
-By following these steps, you can effectively use the Whiskey Rise Click Modifier to enhance your gameplay experience
+By following these steps, you can effectively use the Kotetsu Labs Click Modifier to enhance your gameplay experience

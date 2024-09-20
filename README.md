@@ -22,6 +22,6 @@ Use in Games:
 Simply turn on the Click Modifier using your hotkey when you start playing and turn it off when you no longer need it.
 Additional Notes
 Compatibility: The Click Modifier is designed to work smoothly with Minecraft 1.8.9 but can be used with other clicking games as well.
-Customization: You can always change the CPS and hotkey settings as needed by reopening the program and following steps 2 and 3.                                                                                
-Safety: Make sure to use the Click Modifier responsibly. Overusing automated clicking tools can sometimes violate the terms of service of certain games.
-By following these steps, you can effectively use the Kotetsu Labs Click Modifier to enhance your gameplay experience
+Customization: You can always change the CPS and hotkey settings as needed by reopening the program and following steps 2 and 3.         
+
+**Caution: This program is designed solely for educational purposes. Misusing it for unfair advantages or exploitation in games is strongly discouraged and may violate terms of service. Kōtetsu Labs holds no rights to the exploitation of this program and will not be held responsible for any misuse. Please use responsibly.**
